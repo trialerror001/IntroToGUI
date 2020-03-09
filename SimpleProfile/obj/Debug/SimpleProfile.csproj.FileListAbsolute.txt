@@ -1,0 +1,9 @@
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\bin\Debug\SimpleProfile.exe.config
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\bin\Debug\SimpleProfile.exe
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\bin\Debug\SimpleProfile.pdb
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\obj\Debug\SimpleProfile.csprojAssemblyReference.cache
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\obj\Debug\SimpleProfile.Form1.resources
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\obj\Debug\SimpleProfile.Properties.Resources.resources
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\obj\Debug\SimpleProfile.csproj.GenerateResource.cache
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\obj\Debug\SimpleProfile.exe
+D:\Visual Studio C#\IntroToGUI\SimpleProfile\obj\Debug\SimpleProfile.pdb
